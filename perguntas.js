@@ -1,23 +1,24 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'conhecimento gerais',
+    'De onde é a invenção do chuveiro elétrico?',
+    'Brasil.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'conhecimento gerais',
+    'Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?
+',
+    'Caipora'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'conhecimento gerais',
+    'Qual o maior animal terrestre?',
+    'Elefante africano.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'conhecimento gerais',
+    'Quais são os cromossomos que determinam o sexo masculino?',
+    'Os Y.'
 )
